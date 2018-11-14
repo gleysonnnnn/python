@@ -1,5 +1,5 @@
 #Calculador de fatura
-#Por: Gleyson
+#Por: Gleyson "Sono"
 
 print ("Calcule sua fatura mediante os minutos utilizados!")
 minutos = float(input("Quantos minutos você utilizou?:\n")) # entra com valor flutuante na variavel minutos
