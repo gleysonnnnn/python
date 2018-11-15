@@ -18,6 +18,5 @@ else:
     print("Desconto de 0.12 centavos por minuto")
 print("Sua fatura é de: R$%1.2f" %fatura)
 
-#teste
 
 
